@@ -1,0 +1,11 @@
+product_id,category,unit_cost,lead_time_days
+P001,FMCG,9.72,3
+P002,Electronics,84.49,8
+P003,Electronics,11.11,4
+P004,Clothing,89.3,3
+P005,Clothing,16.92,8
+P006,Clothing,11.2,7
+P007,FMCG,58.49,7
+P008,Electronics,52.73,11
+P009,FMCG,51.67,12
+P010,Electronics,59.58,12
